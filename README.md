@@ -1,2 +1,1 @@
-# CollectionRecomp
-i vibecoded a super mario all-stars recompilation, deal with it
+source code release soon
